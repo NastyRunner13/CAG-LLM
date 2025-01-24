@@ -1,0 +1,16 @@
+# Core Libraries
+python-dotenv
+streamlit
+numpy
+scikit-learn
+plotly
+pandas
+requests
+
+# Streamlit Extensions for Enhanced UI
+streamlit-extras
+
+# LLM Integration and Embedding Tools
+torch
+transformers
+sentence-transformers
